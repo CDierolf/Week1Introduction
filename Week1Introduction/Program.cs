@@ -17,14 +17,14 @@ namespace Week1Introduction
         static void Main(string[] args)
         {
             // Outputting with multiple WriteLine's
-            Console.WriteLine("Name: Christopher K. Dierolf\n");
+            Console.WriteLine("Name: Christopher Dierolf\n");
             Console.WriteLine("Age: 32\n");
-            Console.WriteLine("Hometown: Hendersonville, TN\n");
+            Console.WriteLine("Hometown: Tennessee\n");
             Console.WriteLine("Pets: Aziz (Savannah Cat), Cooper (Tabby Cat)\n\n");
 
             // Outputting the same content using arrays and loops.
             string[] sDemographicCategorys = { "Name: ", "Age: ", "Hometown: ", "Pets: " };
-            string[] sDemographics = { "Christopher K. Dierolf", "32", "Hendersonville, TN", "Aziz (Savannah Cat), Cooper (Tabby Cat)" };
+            string[] sDemographics = { "Christopher Dierolf", "32", "Tennessee", "Aziz (Savannah Cat), Cooper (Tabby Cat)" };
 
             for (int i = 0; i < 4; i++)
             {
