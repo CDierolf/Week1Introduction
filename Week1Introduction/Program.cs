@@ -6,7 +6,7 @@ using System.Linq;
 //Watch the videos that demonstrate stepping through code and setting breakpoints.
 //Along with your program, include a screen shot of you stepping through your program and one of your program running to a breakpoint.
 
-// Christopher K. Dierolf
+// Christopher Dierolf
 // 5/7/2018
 // Week 1 Warmup
 
